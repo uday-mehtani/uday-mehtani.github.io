@@ -1,3 +1,11 @@
+---
+title: Uday Mehtani
+layout: default
+---
+
+
+
+
 ### Hi there👋
 - 🔭 I'm learning about Data Structures and Algorithms(DSA) in C++
 - 🥅 I'm exploring web3 and Blockchain Development.
