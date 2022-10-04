@@ -1,4 +1,5 @@
 # Hi there <img src="Hi.gif"  width="29px" height="29px">
+<title>Uday Mehtani</title>
 - 🔭 I'm learning about Data Structures and Algorithms(DSA) in C++
 - 🥅 I'm exploring web3 and Blockchain Development.
 - 👯 I’m looking to participating in hackathons.
@@ -32,7 +33,7 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![Snake animation](https://github.com/uday-mehtani/uday-mehtani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
