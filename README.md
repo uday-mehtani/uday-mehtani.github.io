@@ -1,5 +1,10 @@
-# Hi there <img src="Hi.gif"  width="29px" height="29px">
+<head>
 <title>Uday Mehtani</title>
+</head>
+   
+   
+# Hi there <img src="Hi.gif"  width="29px" height="29px">
+
 - 🔭 I'm learning about Data Structures and Algorithms(DSA) in C++
 - 🥅 I'm exploring web3 and Blockchain Development.
 - 👯 I’m looking to participating in hackathons.
@@ -38,4 +43,3 @@
 <!--
 
 -->
-
