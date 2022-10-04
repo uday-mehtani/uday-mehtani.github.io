@@ -4,7 +4,7 @@
 - 👯 I’m looking to participating in hackathons.
 - 💞️ Contributing to open source is something I'm loving these days.
 - ✨ Checkout my starred repos for amazing resources.
-- 📫 How to reach me: [udaymehtani@gmail.com](mailto:udaymehtani@gmail.com)@
+- 📫 How to reach me: [udaymehtani@gmail.com](mailto:udaymehtani@gmail.com)
 
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
 
@@ -32,7 +32,7 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 
