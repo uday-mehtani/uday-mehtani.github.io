@@ -32,7 +32,7 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![Snake animation](https://github.com/uday-mehtani/uday-mehtani/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/uday-mehtani/uday-mehtani/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
